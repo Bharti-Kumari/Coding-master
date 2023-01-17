@@ -1,2 +1,2 @@
 # Coding-master
-create a website in which all  programming and coding teacher and website
+create a website in which all  programming and coding teacher and website using html and css.
